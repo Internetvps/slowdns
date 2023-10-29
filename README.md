@@ -30,7 +30,7 @@ rm -rf install; apt update; wget https://github.com/Internetvps/slowdns/raw/main
 
 ## :octocat: by DRGVPN
 <ul>
- <li>TELEGRAM CHANNEL: https://t.me/dDRG_VPN</li>
+ <li>TELEGRAM CHANNEL: https://t.me/DRG_TECH</li>
  
  </ul>
  
