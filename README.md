@@ -1,8 +1,16 @@
 # By DRGVPN
 ```
-* SLOWDNS SCRIPT DONATION IF YOU LIKE THIS...
+## ⏩ BUY ME A COFFEE IF YOU LIKE THIS SCRIPT... ⏪
+
+<b>
+<br>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/.jpg" width="300" title="Autoscript-Lite">
+<b>
+
+
+* SLOWDNS SCRIPT 
 ```
-![logo]89685787/c7191a3a-c697-45fb-a4e9-3a6b2131e28d)
 
 
 ```
