@@ -28,7 +28,7 @@ rm -rf install; apt update; wget https://github.com/Internetvps/slowdns/raw/main
 ```
 
 
-## :octocat: by KHALED AGN
+## :octocat: by DRGVPN
 <ul>
  <li>TELEGRAM CHANNEL: https://t.me/DRG_TECH
  
@@ -42,3 +42,11 @@ rm -rf install; apt update; wget https://github.com/Internetvps/slowdns/raw/main
 3. ALL TEAM CODING AUTO SCRIPT
 
 THANK YOU FOR SUPPORT GIVE ME FEEDBACK....
+
+##if you like this buy me coffe... ⏪
+
+<b>
+<br>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/89685787/213615495-bf99dc3a-8e9d-48cc-a1e9-2a3691c2cd88.jpg" width="300" title="Autoscript-Lite">
+<b>
