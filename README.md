@@ -43,10 +43,12 @@ rm -rf install; apt update; wget https://github.com/Internetvps/slowdns/raw/main
 
 THANK YOU FOR SUPPORT GIVE ME FEEDBACK....
 
-##if you like this buy me coffe... ⏪
+## if you like this buy me coffe... ⏪
 
 <b>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/89685787/213615495-bf99dc3a-8e9d-48cc-a1e9-2a3691c2cd88.jpg" width="300" title="Autoscript-Lite">
+<img src="https://user-images.githubusercontent.com/89685787/03dda125-1020-4b68-bd63-8bad9732631a.jpg" width="300" title="Autoscript-Lite">
 <b>
+ 
+https://github.com/Internetvps/slowdns/assets/89685787/03dda125-1020-4b68-bd63-8bad9732631a)
