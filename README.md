@@ -51,4 +51,3 @@ THANK YOU FOR SUPPORT GIVE ME FEEDBACK....
 <img src="https://user-images.githubusercontent.com/89685787/03dda125-1020-4b68-bd63-8bad9732631a.jpg" width="300" title="Autoscript-Lite">
 <b>
  
-https://github.com/Internetvps/slowdns/assets/89685787/03dda125-1020-4b68-bd63-8bad9732631a)
