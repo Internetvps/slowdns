@@ -5,7 +5,7 @@
 <b>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/89685787/d6fcfd34-438e-438a-9dd7-4e2df6453654.jpg" width="300" title="Autoscript-Lite">
+<img src="https://github.com/Internetvps/slowdns/assets/89685787/ee07cee6-ce40-401b-b39e-7e1b6da995c4" width="300" title="Autoscript-slowdns">
 <b>
 
 
