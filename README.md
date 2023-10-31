@@ -5,7 +5,7 @@
 <b>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/.jpg" width="300" title="Autoscript-Lite">
+<img src="https://user-images.githubusercontent.com/89685787/d6fcfd34-438e-438a-9dd7-4e2df6453654.jpg" width="300" title="Autoscript-Lite">
 <b>
 
 
