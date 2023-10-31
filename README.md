@@ -45,9 +45,6 @@ THANK YOU FOR SUPPORT GIVE ME FEEDBACK....
 
 ## if you like this buy me coffe... ⏪
 
-<b>
-<br>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/89685787/03dda125-1020-4b68-bd63-8bad9732631a.jpg" width="300" title="slowdns">
-<b>
+![no_markReactNative-snapshot-image](https://github.com/Internetvps/slowdns/assets/89685787/b648ba16-1f1c-40e1-b080-87f9b6209b5f)
+
  
