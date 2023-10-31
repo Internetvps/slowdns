@@ -1,10 +1,8 @@
-# By DRGVPN
+# DNS-AGN By KHALED AGN ( ENGLISH )
 ```
-## ⏩ BUY ME A COFFEE IF YOU LIKE THIS SCRIPT... ⏪
-
-https://github.com/Internetvps/slowdns/assets/89685787/f77f6582-58fb-40ea-a650-9a4424d39141
-
-
+* DNS-AGN SLOWDNS SCRIPT
+```
+![logo](https://raw.githubusercontent.com/khaledagn/DNS-AGN/main/AGN-DNS.png)
 
 ```
 THIS IS A SCRIPT FOR AUTO INSTALLATION OF SLOWDNS (DNSTT SERVER) WITH:
@@ -25,14 +23,17 @@ THIS IS A SCRIPT FOR AUTO INSTALLATION OF SLOWDNS (DNSTT SERVER) WITH:
 
 # Installation
 ```
-rm -rf install; apt update; wget https://github.com/Internetvps/slowdns/raw/main/install; chmod 777 install; ./install --start
+rm -rf install; apt update; wget https://github.com/khaledagn/SlowDNS/raw/main/install; chmod 777 install; ./install --start
 
 ```
 
 
-## :octocat: by DRGVPN
+## :octocat: by KHALED AGN
 <ul>
- <li>TELEGRAM CHANNEL: https://t.me/DRG_TECH</li>
+ <li>TELEGRAM CHANNEL: https://t.me/khaledagn</li>
+ <li>FACEBOOK: https://www.facebook.com/khaledagn.me</li>
+ <li>INSTAGRAM: https://www.instagram.com/khaledagn</li>
+ <li>TWITTER: https://www.twitter.com/khaled_agn</li>
  
  </ul>
  
