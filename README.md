@@ -1,8 +1,9 @@
 # By DRGVPN
 ```
-* SLOWDNS SCRIPT
+* SLOWDNS SCRIPT DONATION IF YOU LIKE THIS...
 ```
-![logo](https://raw.githubusercontent.com/khaledagn/DNS-AGN/main/AGN-DNS.png)
+![logo]89685787/c7191a3a-c697-45fb-a4e9-3a6b2131e28d)
+
 
 ```
 THIS IS A SCRIPT FOR AUTO INSTALLATION OF SLOWDNS (DNSTT SERVER) WITH:
