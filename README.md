@@ -2,15 +2,8 @@
 ```
 ## ⏩ BUY ME A COFFEE IF YOU LIKE THIS SCRIPT... ⏪
 
-<b>
-<br>
-<p align="center">
-<img src="https://github.com/Internetvps/slowdns/assets/89685787/ee07cee6-ce40-401b-b39e-7e1b6da995c4" width="300" title="Autoscript-slowdns">
-<b>
+https://github.com/Internetvps/slowdns/assets/89685787/f77f6582-58fb-40ea-a650-9a4424d39141
 
-
-* SLOWDNS SCRIPT 
-```
 
 
 ```
